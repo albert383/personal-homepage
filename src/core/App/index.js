@@ -3,8 +3,8 @@ import { ThemeProvider } from "styled-components";
 import { selectIsDarkTheme } from "../../common/themeSlice";
 import { GlobalStyle } from "./GlobalStyle";
 import { themeDark, themeLight } from "./theme";
-import { selectIsDarkTheme } from "../../common/themeSlice";
 import { Normalize } from "styled-normalize";
+import { PersonalHomepage } from "../../features/PersonalHomepage/PersonalHomepage";
 
 const App = () => {
     const isDarkTheme = useSelector(selectIsDarkTheme);
