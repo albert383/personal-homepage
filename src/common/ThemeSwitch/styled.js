@@ -1,4 +1,4 @@
-import styled, { css } from 'styled-components';
+import styled from 'styled-components';
 import { ReactComponent as SunIcon } from './sun.svg';
 
 export const Wrapper = styled.div`
@@ -22,7 +22,7 @@ export const Text = styled.span`
     font-weight: bold;
     margin-right: 12px;
 
-    @media (max-width: ${({ theme }) => theme.breakpoints.mobileMax}px) {
+    @media (max-width: ${({ theme }) => theme.breakpoints.smartfon}px) {
         display: none;
     }
 `;
@@ -31,23 +31,17 @@ export const Box = styled.span`
     background: ${({ theme }) => theme.colors.themeSwitch.background};
     border: 1px solid;
     padding: 3px;
-    border-radius: 12px;
+    border-radius: 30px;
     width: 48px;
     display: flex;
 `;
 
-export const IconWrapper = styled.span`
-    background: currentColor;
+export const IconWrapper = styled.div`
+    display: flex;
     padding: 3px;
     border-radius: 50%;
-    display: flex;
+    background: ${({ theme }) => theme.colors.themeSwitch.iconBox};
     transition: transform 0.3s;
-
-    ${({ moveToRight }) =>
-        moveToRight &&
-        css`
-            transform: translateX(20px);
-        `}
 `;
 
 export const Icon = styled(SunIcon)`
