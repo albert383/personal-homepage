@@ -1,6 +1,6 @@
 import albertCieslaProfile from "./albertCieslaProfile.jpg";
 import { Photo, StyledButtonLink, ButtonIcon, Name, Summary, ThisIs, Wrapper } from "./styled";
-import { email } from "../SecondaryHeader/email";
+import { email } from "../email";
 
 export const MainInfo = () => (
     <Wrapper>
