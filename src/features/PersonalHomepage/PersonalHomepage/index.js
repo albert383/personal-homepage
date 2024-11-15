@@ -5,6 +5,7 @@ import { Container } from './styled';
 import { Skills } from './Skills';
 import { nextSkills, skills } from './Skills/skillsData';
 import { Projects } from './Projects';
+import { Footer } from './Footer';
 
 export const PersonalHomepage = () => (
     <Container>
@@ -13,7 +14,8 @@ export const PersonalHomepage = () => (
         <main>
             <Skills title={"My skillset includes 🛠️"} skills={skills} />
             <Skills title={"What I want to learn next 🚀"} skills={nextSkills} />
-        </main>
         <Projects />
+        </main>
+        <Footer />
     </Container>
 );
