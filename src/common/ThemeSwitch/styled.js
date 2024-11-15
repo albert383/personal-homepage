@@ -41,7 +41,7 @@ export const IconWrapper = styled.div`
     padding: 3px;
     border-radius: 50%;
     background: ${({ theme }) => theme.colors.themeSwitch.iconBox};
-    transition: transform 0.3s;
+    transition: transform 1s;
 `;
 
 export const Icon = styled(SunIcon)`

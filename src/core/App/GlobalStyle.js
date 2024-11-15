@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
 
     body {
         font-family: 'Inter', sans-serif;
-        transition: background 1s;
+        transition: background 1.5s;
         background: ${({ theme }) => theme.colors.site.background};
         color: ${({ theme }) => theme.colors.site.text};
         font-size: 18px;
