@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/personal-homepage/static/js/main.e5fc89fe.js",
+    "static/js/453.61d4ab14.chunk.js": "/personal-homepage/static/js/453.61d4ab14.chunk.js",
+    "static/media/albertCieslaProfile.jpg": "/personal-homepage/static/media/albertCieslaProfile.3ee0a50f8b20ef0caa7c.jpg",
+    "static/media/instagram.svg": "/personal-homepage/static/media/instagram.7ec3572464e8eee9d28b49d83af986e6.svg",
+    "static/media/sun.svg": "/personal-homepage/static/media/sun.1ac2ea03c35a4fbbfd0b4659e5a6c165.svg",
+    "static/media/github.svg": "/personal-homepage/static/media/github.872e38ed35abcf2fb54098731f499800.svg",
+    "static/media/warning.svg": "/personal-homepage/static/media/warning.45de81781e42656f9cef4b8262fda801.svg",
+    "static/media/linkedin.svg": "/personal-homepage/static/media/linkedin.9f38a04c76c9595b2da81e0828807b47.svg",
+    "static/media/envelope.svg": "/personal-homepage/static/media/envelope.46fd560e826116fb97cfd365dd11503b.svg",
+    "index.html": "/personal-homepage/index.html",
+    "static/media/facebook.svg": "/personal-homepage/static/media/facebook.c86c9160f434f5f752b172ce0fe890d9.svg",
+    "static/media/loading.svg": "/personal-homepage/static/media/loading.a521a1509589093f5b09b024127a87bf.svg",
+    "static/media/dot.svg": "/personal-homepage/static/media/dot.907de20c06c772cca133e3db0dad6955.svg",
+    "main.e5fc89fe.js.map": "/personal-homepage/static/js/main.e5fc89fe.js.map",
+    "453.61d4ab14.chunk.js.map": "/personal-homepage/static/js/453.61d4ab14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e5fc89fe.js"
+  ]
+}
