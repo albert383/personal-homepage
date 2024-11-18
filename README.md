@@ -2,6 +2,12 @@
 
 Welcome to my personal portfolio website! This project serves as my digital business card, showcasing my skills, experience, and projects in a professional and visually appealing manner. Built with modern web technologies, it is designed to provide a quick and comprehensive overview of my expertise and interests to potential employers and collaborators.
 
+## Preview
+
+Take a look at how the application works:
+
+![App Preview](./public/app-preview.gif)
+
 ## About the Project
 
 This project is a single-page application developed with [Create React App](https://github.com/facebook/create-react-app), utilizing React, styled-components, and other libraries to ensure a responsive and engaging user experience. The goal is to highlight my professional background, showcase completed projects, and provide easy ways to connect with me via social media.
