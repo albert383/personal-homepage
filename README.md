@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project serves as my digital busi
 
 Take a look at how the application works:
 
-![App Preview](./public/app-preview.gif)
+![App Preview](./public/personalHomepageGif.gif)
 
 ## About the Project
 
